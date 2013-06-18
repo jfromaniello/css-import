@@ -18,7 +18,8 @@
     "test": "mocha"
   },
   "dependencies": {
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "css-parse": "~1.4.0"
   },
   "devDependencies": {
     "mocha": "~1.11.0",
