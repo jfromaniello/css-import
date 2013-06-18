@@ -1,7 +1,7 @@
 {
   "name": "css-import",
   "description": "join css files with @import",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/jfromaniello/css-import.git"
   },
