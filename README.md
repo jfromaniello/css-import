@@ -32,7 +32,7 @@ From CLI:
 ~~~
 cssimport /path/to/my/file \ 
 	/path/to/some/extra/base/dir \
-	/path/to/some/other/base/dir
+	/path/to/some/other/base/dir > output.css
 ~~~
 
 
